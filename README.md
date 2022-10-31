@@ -24,7 +24,12 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Helixneek&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Helixneek&style=flat-square&color=blue" alt=""/>
+</div>
+
+</br>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 ### :crossed_swords: About Me:
