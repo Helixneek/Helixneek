@@ -1,25 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/C51woXfgJdug/giphy.gif" width="200"/>
-</div>
-
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nico-marcelino">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCgnQagkdFGoHyneDhTEnFPA">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  
-  <a href=#>
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Helixneek&style=flat-square&color=blue" alt=""/>
-</div>
-
 <h1 align="center">
   Hey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -66,3 +44,26 @@ I am a beginner Game Developer  :joystick:  and Machine Learning Engineer  :left
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Helixneek&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixneek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :telephone: Contact Me :
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/C51woXfgJdug/giphy.gif" width="200"/>
+</div>
+
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nico-marcelino">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCgnQagkdFGoHyneDhTEnFPA">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href=#>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Helixneek&style=flat-square&color=blue" alt=""/>
+</div>
