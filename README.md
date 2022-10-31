@@ -7,6 +7,26 @@
   <img src="https://media.giphy.com/media/sNnOrgHgt1xNm/giphy.gif" width="600" height="350"/>
 </div>
 
+</br>
+
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nico-marcelino">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCgnQagkdFGoHyneDhTEnFPA">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href=#>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Helixneek&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### :crossed_swords: About Me:
 I am a beginner Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_bubble:  from Indonesia  :indonesia:
 - :jigsaw: I’m currently an Undergraduate Student in BINUS University, Bandung, West Java, Indonesia.
@@ -45,25 +65,7 @@ I am a beginner Game Developer  :joystick:  and Machine Learning Engineer  :left
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixneek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :telephone: Contact Me :
+</br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/C51woXfgJdug/giphy.gif" width="200"/>
-</div>
-
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nico-marcelino">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCgnQagkdFGoHyneDhTEnFPA">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  
-  <a href=#>
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Helixneek&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/C51woXfgJdug/giphy.gif" width="500"/>
 </div>
