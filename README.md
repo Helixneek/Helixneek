@@ -34,13 +34,7 @@
 
 ### :crossed_swords: About Me:
 I am a beginner Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_bubble:  from Indonesia  :indonesia:
-- :jigsaw: I’m currently an Undergraduate Student in BINUS University, Bandung, West Java, Indonesia.
-
-- :art: Learning programming, game design, art and sound for making games.
-
-- :zap: In my free time, I play video games and hone my skills for fun.
-
-- :nut_and_bolt: Personally I like medieval weaponry and armor.
+- :jigsaw: this sucks
 
 - :mailbox: Contact me at [![Linkedin Badge](https://img.shields.io/badge/-Helixneek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-marcelino)
 
