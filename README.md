@@ -33,9 +33,7 @@
 </div>
 
 ### :crossed_swords: About Me:
-I am a beginner Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_bubble:  from Indonesia  :indonesia:
-- :jigsaw: this sucks
-
+I am a Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_bubble:  from Indonesia  :indonesia:
 - :mailbox: Contact me at [![Linkedin Badge](https://img.shields.io/badge/-Helixneek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-marcelino)
 
 ### :hammer_and_wrench: Languages and Tools:
