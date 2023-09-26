@@ -58,8 +58,10 @@ I am a Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_b
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Helixneek&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Helixneek&theme=tokyonight)](https://git.io/streak-stats)
+
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixneek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
