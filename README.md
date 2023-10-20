@@ -1,11 +1,5 @@
-<h1 align="center">
-  Hey!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/sNnOrgHgt1xNm/giphy.gif" width="300" height="175"/>
-</div>
+### :crossed_swords: About Me:
+I am a currently learning Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_bubble:  from Indonesia  :indonesia:
 
 </br>
 
@@ -28,13 +22,6 @@
 </div>
 
 </br>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
-### :crossed_swords: About Me:
-I am a Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_bubble:  from Indonesia  :indonesia:
-- :mailbox: Contact me at [![Linkedin Badge](https://img.shields.io/badge/-Helixneek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-marcelino)
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -56,13 +43,23 @@ I am a Game Developer  :joystick:  and Machine Learning Engineer  :left_speech_b
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>
 </div>
 
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixneek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Helixneek&theme=tokyonight)](https://git.io/streak-stats)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helixneek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Helixneek?ext=activity)
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
 </br>
 <div id="header" align="center">
