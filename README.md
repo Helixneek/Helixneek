@@ -1,7 +1,5 @@
 ### :crossed_swords: About Me:
-I am a currently learning :joystick: **Game Developer** :joystick: and :left_speech_bubble: **Machine Learning Engineer**  :left_speech_bubble: from :indonesia: **Indonesia**  :indonesia:
-
-Currently interning as a **Game Designer** in **PT Freeport Indonesia**
+I am a currently learning :joystick: **Game Programmer** :joystick:.
 
 </br>
 
